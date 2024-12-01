@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphishing_detection_docs=self.webpackChunkphishing_detection_docs||[]).push([[427],{9611:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/phishing-detection-docs/blog","page":1,"postsPerPage":5,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

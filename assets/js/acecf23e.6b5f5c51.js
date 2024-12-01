@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphishing_detection_docs=self.webpackChunkphishing_detection_docs||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/phishing-detection-docs/blog","blogTitle":"Blog","authorsListPath":"/phishing-detection-docs/blog/authors"}')}}]);

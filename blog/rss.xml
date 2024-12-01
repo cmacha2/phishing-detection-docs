@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Phishing Detection Framework Blog</title>
+        <link>https://cmacha2.github.io/phishing-detection-docs/blog</link>
+        <description>Phishing Detection Framework Blog</description>
+        <lastBuildDate>Tue, 10 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[The Future of Phishing Detection Framework]]></title>
+            <link>https://cmacha2.github.io/phishing-detection-docs/blog/next-steps</link>
+            <guid>https://cmacha2.github.io/phishing-detection-docs/blog/next-steps</guid>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Planned features and roadmap for the project.]]></description>
+            <content:encoded><![CDATA[<p>With the successful launch of the Phishing Detection Framework, we’re excited to share our roadmap for future development:</p>
+<ol>
+<li><strong>Multilingual Support</strong>: Expanding detection capabilities for non-English inputs.</li>
+<li><strong>Customizable Models</strong>: Allow users to fine-tune the models for specific needs.</li>
+<li><strong>Real-Time Detection</strong>: Integrating with APIs for real-time phishing analysis.</li>
+</ol>
+<p>We’d love to hear your ideas! Contribute or share feedback on <a href="https://github.com/cmacha2/phishing-detection-py/discussions" target="_blank" rel="noopener noreferrer">GitHub Discussions</a>.</p>
+<p>Let’s continue improving and making the internet safer together!</p>]]></content:encoded>
+            <category>Roadmap</category>
+            <category>features</category>
+            <category>Security</category>
+            <category>Open-source</category>
+        </item>
+        <item>
+            <title><![CDATA[How the Phishing Detection Framework Works]]></title>
+            <link>https://cmacha2.github.io/phishing-detection-docs/blog/how-it-works</link>
+            <guid>https://cmacha2.github.io/phishing-detection-docs/blog/how-it-works</guid>
+            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[An overview of the machine learning models and techniques behind the framework.]]></description>
+            <content:encoded><![CDATA[<p>The <strong>Phishing Detection Framework</strong> is powered by state-of-the-art machine learning models hosted on Hugging Face:</p>
+<ul>
+<li><strong>URL Detection</strong>: <a href="https://huggingface.co/ealvaradob/bert-finetuned-phishing" target="_blank" rel="noopener noreferrer"><code>bert-finetuned-phishing</code></a></li>
+<li><strong>Email Detection</strong>: <a href="https://huggingface.co/cybersectony/phishing-email-detection-distilbert_v2.4.1" target="_blank" rel="noopener noreferrer"><code>phishing-email-detection-distilbert_v2.4.1</code></a></li>
+</ul>
+<p>These models are fine-tuned for phishing detection, offering high accuracy and reliability. They analyze:</p>
+<ol>
+<li><strong>URLs</strong>: Scanning for known phishing patterns.</li>
+<li><strong>Email content</strong>: Identifying deceptive language or malicious intent.</li>
+</ol>
+<p>Learn more in the <a href="https://cmacha2.github.io/phishing-detection-docs/docs/api-reference.md">API Reference</a>.</p>]]></content:encoded>
+            <category>technical</category>
+            <category>Ml</category>
+            <category>Phishing</category>
+            <category>Tutorial</category>
+        </item>
+        <item>
+            <title><![CDATA[Launching the Phishing Detection Framework]]></title>
+            <link>https://cmacha2.github.io/phishing-detection-docs/blog/launch-post</link>
+            <guid>https://cmacha2.github.io/phishing-detection-docs/blog/launch-post</guid>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introducing an open-source solution for phishing detection.]]></description>
+            <content:encoded><![CDATA[<p>We're thrilled to announce the release of the <strong>Phishing Detection Framework</strong>! 🚀</p>
+<p>This open-source Python library leverages cutting-edge machine learning models to detect phishing attempts in URLs and emails. Key features include:</p>
+<ul>
+<li><strong>Pre-trained models</strong> for high accuracy.</li>
+<li><strong>Batch processing</strong> for analyzing multiple inputs.</li>
+<li><strong>Flexible API</strong> for integration into your workflows.</li>
+</ul>
+<p><a href="https://cmacha2.github.io/phishing-detection-docs/docs/intro.md">Explore the documentation</a> to get started, or <a href="https://github.com/cmacha2/phishing-detection-py" target="_blank" rel="noopener noreferrer">check out the GitHub repository</a> to contribute.</p>
+<p>Let’s build a safer internet together!</p>]]></content:encoded>
+            <category>Launch</category>
+            <category>Phishing</category>
+            <category>Security</category>
+            <category>Open-source</category>
+        </item>
+    </channel>
+</rss>

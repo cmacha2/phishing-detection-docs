@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphishing_detection_docs=self.webpackChunkphishing_detection_docs||[]).push([[647],{7121:(e,s,c)=>{c.r(s),c.d(s,{default:()=>u});c(6540);var n=c(4164),r=c(1213),t=c(7559),i=c(2831),d=c(781),h=c(4848);function u(e){return(0,h.jsx)(r.e3,{className:(0,n.A)(t.G.wrapper.docsPages),children:(0,h.jsx)(d.A,{children:(0,i.v)(e.route.routes)})})}}}]);

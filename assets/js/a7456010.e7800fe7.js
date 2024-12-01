@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphishing_detection_docs=self.webpackChunkphishing_detection_docs||[]).push([[235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

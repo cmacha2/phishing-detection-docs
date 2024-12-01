@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cmacha2.github.io/phishing-detection-docs/blog</id>
+    <title>Phishing Detection Framework Blog</title>
+    <updated>2024-12-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cmacha2.github.io/phishing-detection-docs/blog"/>
+    <subtitle>Phishing Detection Framework Blog</subtitle>
+    <icon>https://cmacha2.github.io/phishing-detection-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Future of Phishing Detection Framework]]></title>
+        <id>https://cmacha2.github.io/phishing-detection-docs/blog/next-steps</id>
+        <link href="https://cmacha2.github.io/phishing-detection-docs/blog/next-steps"/>
+        <updated>2024-12-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Planned features and roadmap for the project.]]></summary>
+        <content type="html"><![CDATA[<p>With the successful launch of the Phishing Detection Framework, we’re excited to share our roadmap for future development:</p>
+<ol>
+<li><strong>Multilingual Support</strong>: Expanding detection capabilities for non-English inputs.</li>
+<li><strong>Customizable Models</strong>: Allow users to fine-tune the models for specific needs.</li>
+<li><strong>Real-Time Detection</strong>: Integrating with APIs for real-time phishing analysis.</li>
+</ol>
+<p>We’d love to hear your ideas! Contribute or share feedback on <a href="https://github.com/cmacha2/phishing-detection-py/discussions" target="_blank" rel="noopener noreferrer">GitHub Discussions</a>.</p>
+<p>Let’s continue improving and making the internet safer together!</p>]]></content>
+        <author>
+            <name>Cristian Machado</name>
+            <uri>https://github.com/cmacha2</uri>
+        </author>
+        <category label="Roadmap" term="Roadmap"/>
+        <category label="features" term="features"/>
+        <category label="Security" term="Security"/>
+        <category label="Open-source" term="Open-source"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Phishing Detection Framework Works]]></title>
+        <id>https://cmacha2.github.io/phishing-detection-docs/blog/how-it-works</id>
+        <link href="https://cmacha2.github.io/phishing-detection-docs/blog/how-it-works"/>
+        <updated>2024-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An overview of the machine learning models and techniques behind the framework.]]></summary>
+        <content type="html"><![CDATA[<p>The <strong>Phishing Detection Framework</strong> is powered by state-of-the-art machine learning models hosted on Hugging Face:</p>
+<ul>
+<li><strong>URL Detection</strong>: <a href="https://huggingface.co/ealvaradob/bert-finetuned-phishing" target="_blank" rel="noopener noreferrer"><code>bert-finetuned-phishing</code></a></li>
+<li><strong>Email Detection</strong>: <a href="https://huggingface.co/cybersectony/phishing-email-detection-distilbert_v2.4.1" target="_blank" rel="noopener noreferrer"><code>phishing-email-detection-distilbert_v2.4.1</code></a></li>
+</ul>
+<p>These models are fine-tuned for phishing detection, offering high accuracy and reliability. They analyze:</p>
+<ol>
+<li><strong>URLs</strong>: Scanning for known phishing patterns.</li>
+<li><strong>Email content</strong>: Identifying deceptive language or malicious intent.</li>
+</ol>
+<p>Learn more in the <a href="https://cmacha2.github.io/phishing-detection-docs/docs/api-reference.md">API Reference</a>.</p>]]></content>
+        <author>
+            <name>Cristian Machado</name>
+            <uri>https://github.com/cmacha2</uri>
+        </author>
+        <category label="technical" term="technical"/>
+        <category label="Ml" term="Ml"/>
+        <category label="Phishing" term="Phishing"/>
+        <category label="Tutorial" term="Tutorial"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launching the Phishing Detection Framework]]></title>
+        <id>https://cmacha2.github.io/phishing-detection-docs/blog/launch-post</id>
+        <link href="https://cmacha2.github.io/phishing-detection-docs/blog/launch-post"/>
+        <updated>2024-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing an open-source solution for phishing detection.]]></summary>
+        <content type="html"><![CDATA[<p>We're thrilled to announce the release of the <strong>Phishing Detection Framework</strong>! 🚀</p>
+<p>This open-source Python library leverages cutting-edge machine learning models to detect phishing attempts in URLs and emails. Key features include:</p>
+<ul>
+<li><strong>Pre-trained models</strong> for high accuracy.</li>
+<li><strong>Batch processing</strong> for analyzing multiple inputs.</li>
+<li><strong>Flexible API</strong> for integration into your workflows.</li>
+</ul>
+<p><a href="https://cmacha2.github.io/phishing-detection-docs/docs/intro.md">Explore the documentation</a> to get started, or <a href="https://github.com/cmacha2/phishing-detection-py" target="_blank" rel="noopener noreferrer">check out the GitHub repository</a> to contribute.</p>
+<p>Let’s build a safer internet together!</p>]]></content>
+        <author>
+            <name>Cristian Machado</name>
+            <uri>https://github.com/cmacha2</uri>
+        </author>
+        <category label="Launch" term="Launch"/>
+        <category label="Phishing" term="Phishing"/>
+        <category label="Security" term="Security"/>
+        <category label="Open-source" term="Open-source"/>
+    </entry>
+</feed>
