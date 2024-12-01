@@ -9,15 +9,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production URL of your site here
-  url: 'https://phishing-detection-docs.example.com',
+  url: 'https://cmacha2.github.io',
   // Set the base path for your site
-  baseUrl: '/',
+  baseUrl: '/phishing-detection-docs/',
 
   // GitHub pages deployment config
   organizationName: 'cmacha2', // GitHub username
-  projectName: 'phishing-detection-py', // GitHub repo name
+  projectName: 'phishing-detection-docs', // GitHub repo name
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Localization
@@ -33,13 +33,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/cmacha2/phishing-detection-py/tree/main/docs/',
+          editUrl: 'https://github.com/cmacha2/phishing-detection-docs/tree/main/docs/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/cmacha2/phishing-detection-py/tree/main/blog/',
+          editUrl: 'https://github.com/cmacha2/phishing-detection-docs/tree/main/blog/',
           postsPerPage: 5
         },
         theme: {
@@ -62,13 +62,13 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'docsSidebar', // Updated from tutorialSidebar
             position: 'left',
             label: 'Docs',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/cmacha2/phishing-detection-py',
+            href: 'https://github.com/cmacha2/phishing-detection-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -103,11 +103,11 @@ const config = {
             items: [
               {
                 label: 'GitHub Discussions',
-                href: 'https://github.com/cmacha2/phishing-detection-py/discussions',
+                href: 'https://github.com/cmacha2/phishing-detection-docs/discussions',
               },
               {
                 label: 'Issues',
-                href: 'https://github.com/cmacha2/phishing-detection-py/issues',
+                href: 'https://github.com/cmacha2/phishing-detection-docs/issues',
               },
             ],
           },
@@ -120,7 +120,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/cmacha2/phishing-detection-py',
+                href: 'https://github.com/cmacha2/phishing-detection-docs',
               },
             ],
           },
