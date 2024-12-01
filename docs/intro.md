@@ -8,6 +8,6 @@ Phishing Detection Framework provides developers with an easy-to-use library to 
 - Batch processing support.
 - Flexible and developer-friendly API.
 
-To get started, check out the [Installation Guide](installation.md) and [Usage Guide](usage.md).
+To get started, check out the [Installation Guide](/phishing-detection-docs/docs/installation) and [Usage Guide](/phishing-detection-docs/docs/usage).
 
 Let's build a safer internet together! 🚀

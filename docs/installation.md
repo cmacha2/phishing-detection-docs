@@ -51,4 +51,4 @@ python -m phishing_detection_py --help
 ```
 This command will display usage instructions and confirm the library is ready for use.
 
-For detailed examples, check out the [Usage Guide](usage.md).
+For detailed examples, check out the [Usage Guide](/phishing-detection-docs/docs/usage).
