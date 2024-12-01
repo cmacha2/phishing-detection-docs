@@ -1,0 +1,22 @@
+# Tags for organizing blog posts in the Phishing Detection Framework
+
+launch:
+  description: Blog posts related to the launch of the framework.
+
+phishing:
+  description: Posts covering phishing detection techniques and news.
+
+security:
+  description: Security-related topics and updates.
+
+open-source:
+  description: Information about open-source contributions and updates.
+
+ml:
+  description: Machine learning concepts and implementations used in the framework.
+
+tutorial:
+  description: Step-by-step guides and tutorials for using the framework.
+
+roadmap:
+  description: Future plans and development goals for the project.
