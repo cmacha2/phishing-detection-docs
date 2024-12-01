@@ -46,7 +46,7 @@
 <li><strong>URLs</strong>: Scanning for known phishing patterns.</li>
 <li><strong>Email content</strong>: Identifying deceptive language or malicious intent.</li>
 </ol>
-<p>Learn more in the <a href="https://cmacha2.github.io/phishing-detection-docs/docs/api-reference.md">API Reference</a>.</p>]]></content>
+<p>Learn more in the <a href="https://cmacha2.github.io/phishing-detection-docs/docs/api-reference">API Reference</a></p>]]></content>
         <author>
             <name>Cristian Machado</name>
             <uri>https://github.com/cmacha2</uri>
@@ -69,7 +69,7 @@
 <li><strong>Batch processing</strong> for analyzing multiple inputs.</li>
 <li><strong>Flexible API</strong> for integration into your workflows.</li>
 </ul>
-<p><a href="https://cmacha2.github.io/phishing-detection-docs/docs/intro.md">Explore the documentation</a> to get started, or <a href="https://github.com/cmacha2/phishing-detection-py" target="_blank" rel="noopener noreferrer">check out the GitHub repository</a> to contribute.</p>
+<p><a href="https://cmacha2.github.io/phishing-detection-docs/docs/intro">Explore the documentation</a> to get started, or <a href="https://github.com/cmacha2/phishing-detection-py" target="_blank" rel="noopener noreferrer">check out the GitHub repository</a> to contribute.</p>
 <p>Let’s build a safer internet together!</p>]]></content>
         <author>
             <name>Cristian Machado</name>
