@@ -13,6 +13,7 @@ const config = {
   // Set the base path for your site
   baseUrl: '/phishing-detection-docs/',
 
+
   // GitHub pages deployment config
   organizationName: 'cmacha2', // GitHub username
   projectName: 'phishing-detection-docs', // GitHub repo name
@@ -62,7 +63,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'docsSidebar', // Updated from tutorialSidebar
+            sidebarId: 'tutorialSidebar', // Updated from tutorialSidebar
             position: 'left',
             label: 'Docs',
           },

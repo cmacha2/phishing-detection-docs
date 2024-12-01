@@ -17,4 +17,4 @@ These models are fine-tuned for phishing detection, offering high accuracy and r
 1. **URLs**: Scanning for known phishing patterns.
 2. **Email content**: Identifying deceptive language or malicious intent.
 
-Learn more in the [API Reference](docs/api-reference.md).
+Learn more in the [API Reference](/phishing-detection-docs/docs/api-reference.md).

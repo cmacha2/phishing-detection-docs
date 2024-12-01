@@ -15,6 +15,6 @@ This open-source Python library leverages cutting-edge machine learning models t
 - **Batch processing** for analyzing multiple inputs.
 - **Flexible API** for integration into your workflows.
 
-[Explore the documentation](/docs/intro.md) to get started, or [check out the GitHub repository](https://github.com/cmacha2/phishing-detection-py) to contribute.
+[Explore the documentation](/phishing-detection-docs/docs/intro.md) to get started, or [check out the GitHub repository](https://github.com/cmacha2/phishing-detection-py) to contribute.
 
 Let’s build a safer internet together!
